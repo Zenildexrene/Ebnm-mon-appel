@@ -1,0 +1,6 @@
+{
+  "name": "Mon Appel",
+  "description": "Application de lecture pour l'ouvrage Mon Appel du Prophète Dizolele-Mpungu Wafiduswa Isaac (Église Bon Nouveau Message - KCC).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
